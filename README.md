@@ -59,5 +59,7 @@
 
 ### 如果提交不了 先拉取在上传
 ![img](http://oibl5dyji.bkt.clouddn.com/TIM%E6%88%AA%E5%9B%BE20171011104323.png)
+### 拉取之后 出现一个新界面 直接关闭git 即可 然后再打开 直接push 就行了
 
+### 本地代码需要更改再提交 直接 commit 然后 push 就行
 
