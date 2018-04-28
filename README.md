@@ -63,3 +63,5 @@
 
 ### 本地代码需要更改再提交 直接 commit 然后 push 就行
 
+### Git clone 分支
+    ` Git clone -b wangtao  [远程服务器地址]`
